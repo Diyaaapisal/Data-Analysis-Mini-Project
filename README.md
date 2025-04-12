@@ -1,4 +1,4 @@
-# Python-Mini-Project
+# Data-Analysis-Mini-Project
 This mini-project focuses on analyzing delivery delays using Python to uncover patterns, trends, and potential causes of late shipments. The project involves cleaning and preprocessing raw delivery data, performing exploratory data analysis (EDA), and visualizing key insights through graphs and charts.
 
 📊 Data Cleaning – Removing duplicates, handling missing values, and fixing errors to keep your data accurate and reliable! 🧹✨
